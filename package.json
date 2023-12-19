@@ -1,0 +1,15 @@
+{
+  "name": "component-based-architecture",
+  "version": "1.0.0",
+  "description": "Demo to show how component-based architecture works",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "npx live-server src/"
+  },
+  "author": "Vitor Fonseca",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "1.2.1"
+  }
+}
